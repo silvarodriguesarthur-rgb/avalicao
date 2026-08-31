@@ -75,3 +75,7 @@ p{
     font-size: 48px;
     margin-bottom: 20px;
 }
+
+p {
+    line-height: 1.6
+}
